@@ -10,6 +10,9 @@
 
 ### I want to be an employee at a tech company in Albuquerque.
 
+Weekly reflection 1/23 - 1/29
+This last week was a difficult time for me with understanding the core concepts of the Java language and syntax. I am still unsure of my capacity to learn this language but I am very interested and I think if I can maintain that interest and drive I will be an effective developer given that I have the time. I need to spend long hours doing tedious tasks and this will ensure an understanding of the language. This also includes longer practice using programs like coding bat and hacker rank to improve my syntactical skills. I feel glad to be on the other side of this week and to be looking forward to greater understanding of this language.
+
 * Passion Project
 
     My passion project was when I was teaching students about computer science and also the basics in coding. I engaged the students in a whole-group discussion on why computer science is necessary for the future. Afterwards, students used code.com, and google code to learn the basics of logic problems including the use of  for, if, do, while, and boolean statements. At the end of the project my students were able to present on their project which included a creative sketch using Scratch. 
