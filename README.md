@@ -5,7 +5,7 @@
 * [LinkedIn](https://www.linkedin.com/in/felipecook)
 * [GitHub](https://github.com/felipecook)
 * [Concept Map](https://drive.google.com/file/d/1rnYEn78_48Mc778NXQaWQRdb76LC2VMl/view?usp=sharing)
-* [Resume)(https://drive.google.com/file/d/172c0npKb39SxC56BlvyXN8boAkWnqSA_/view?usp=sharing)
+* [Resume](https://drive.google.com/file/d/172c0npKb39SxC56BlvyXN8boAkWnqSA_/view?usp=sharing)
 
 ### Hi, my name is Felipe. I build applications that help like-minded people connect to each other. I’m doing this partnership with CNM Ingenuity and coding it with the Java language. Are you looking for a connection?
 
