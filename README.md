@@ -12,8 +12,7 @@
 
 ### I want to be an employee at a tech company in Albuquerque.
 
-Weekly reflection 1/23 - 1/29
-This last week was a difficult time for me with understanding the core concepts of the Java language and syntax. I am still unsure of my capacity to learn this language but I am very interested and I think if I can maintain that interest and drive I will be an effective developer given that I have the time. I need to spend long hours doing tedious tasks and this will ensure an understanding of the language. This also includes longer practice using programs like coding bat and hacker rank to improve my syntactical skills. I feel glad to be on the other side of this week and to be looking forward to greater understanding of this language.
+
 
 * Passion Project
 
@@ -30,5 +29,13 @@ This last week was a difficult time for me with understanding the core concepts 
 	+ I am a strong planner. (This can lead to me not being flexible in my options.)
 	+ I have grit. (This can lead to me not ending something when perhaps it should have ended.)
 	+ I am an analytical thinker. (This can lead me to not think outside the box.)
+	
+## My Current Life Photo	
 
 ![Current life photo](https://user-images.githubusercontent.com/44206402/52171596-b58d1380-271c-11e9-8c1e-ce5acd2d0aae.jpg)
+
+Weekly reflection 1/23 - 1/29
+This last week was a difficult time for me with understanding the core concepts of the Java language and syntax. I am still unsure of my capacity to learn this language but I am very interested and I think if I can maintain that interest and drive I will be an effective developer given that I have the time. I need to spend long hours doing tedious tasks and this will ensure an understanding of the language. This also includes longer practice using programs like coding bat and hacker rank to improve my syntactical skills. I feel glad to be on the other side of this week and to be looking forward to greater understanding of this language.
+
+Weekly reflection 1/29 - 2/2
+This second week of the bootcamp was difficult for me. I was very challendged mentally and I had difficult times following the content and how it worked out. I think that I need even more practice than what I am getting currently in the classroom. Following up on this I purchased a class on Udemy for Java Masterclass and I am hoping that the additional practice from this course will enable me to be present in class without fear of falling behind. I am worried for the next week but that is a good feeling also. I am looking forward to it. 
