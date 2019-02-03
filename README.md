@@ -31,3 +31,4 @@ This last week was a difficult time for me with understanding the core concepts 
 	+ I have grit. (This can lead to me not ending something when perhaps it should have ended.)
 	+ I am an analytical thinker. (This can lead me to not think outside the box.)
 
+![Current life photo](https://user-images.githubusercontent.com/44206402/52171596-b58d1380-271c-11e9-8c1e-ce5acd2d0aae.jpg)
