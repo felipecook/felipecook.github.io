@@ -33,7 +33,7 @@
 	
 ## My Current Life Photo	
 
-![Current life photo](https://user-images.githubusercontent.com/44206402/52171596-b58d1380-271c-11e9-8c1e-ce5acd2d0aae.jpg)
+![Current life photo](https://user-images.githubusercontent.com/44206402/52445021-2babc480-2ae7-11e9-9043-b0b1b55aa50d.jpg)
 
 Weekly reflection 1/23 - 1/29
 This last week was a difficult time for me with understanding the core concepts of the Java language and syntax. I am still unsure of my capacity to learn this language but I am very interested and I think if I can maintain that interest and drive I will be an effective developer given that I have the time. I need to spend long hours doing tedious tasks and this will ensure an understanding of the language. This also includes longer practice using programs like coding bat and hacker rank to improve my syntactical skills. I feel glad to be on the other side of this week and to be looking forward to greater understanding of this language.
