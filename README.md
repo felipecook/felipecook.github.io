@@ -42,3 +42,6 @@ This last week was a difficult time for me with understanding the core concepts 
 
 Weekly reflection 1/29 - 2/4
 This second week of the bootcamp was difficult for me. I was very challendged mentally and I had difficult times following the content and how it worked out. I think that I need even more practice than what I am getting currently in the classroom. Following up on this I purchased a class on Udemy for Java Masterclass and I am hoping that the additional practice from this course will enable me to be present in class without fear of falling behind. I am worried for the next week but that is a good feeling also. I am looking forward to it. 
+
+Weekly reflection 2/5 - 2/10
+This third week of bootcamp was an entirely different game than the previous two weeks. We started our discussions on data structures and talked about bubble sort, we also created a new application that plays the game of Craps for it's users. We are on chapter 8 of the book and have basically finished all of the basic syntax for the Java language. It is difficult to fathom how far i've come but I am looking forward to more as we go!
