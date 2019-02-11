@@ -8,6 +8,7 @@
 * [Resume](https://drive.google.com/file/d/172c0npKb39SxC56BlvyXN8boAkWnqSA_/view?usp=sharing)
 * [Reflection on Online Presence](https://docs.google.com/spreadsheets/d/1MxOi_9i0rDYqrHAmYebKMJxI4M9L0IpUdY8frcRorpY/edit?usp=sharing)
 * [Cooking Up Activity](https://drive.google.com/file/d/1TT6nOcVQIUQ1NzxAGpJeLs-1PG_8ol5X/view?usp=sharing)
+* [Salary Expectations](salaryexpectations.md)
 
 ### Hi, my name is Felipe. I build applications that help like-minded people connect to each other. I’m doing this partnership with CNM Ingenuity and coding it with the Java language. Are you looking for a connection?
 
