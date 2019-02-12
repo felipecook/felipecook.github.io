@@ -27,8 +27,6 @@
 * Cross-cultural awareness and sensitivity training
 
 
-* Passion Project
-
     My passion project was when I was teaching students about computer science and also the basics in coding. I engaged the students in a whole-group discussion on why computer science is necessary for the future. Afterwards, students used code.com, and google code to learn the basics of logic problems including the use of  for, if, do, while, and boolean statements. At the end of the project my students were able to present on their project which included a creative sketch using Scratch. 
 
 * Quantitative Accomplishments
@@ -55,4 +53,4 @@ This second week of the bootcamp was difficult for me. I was very challendged me
 
 Weekly reflection 2/5 - 2/10
 This third week of bootcamp was an entirely different game than the previous two weeks. We started our discussions on data structures and talked about bubble sort, we also created a new application that plays the game of Craps for it's users. We are on chapter 8 of the book and have basically finished all of the basic syntax for the Java language. It is difficult to fathom how far i've come but I am looking forward to more as we go!
- o
+
