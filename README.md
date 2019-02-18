@@ -55,3 +55,5 @@ This second week of the bootcamp was difficult for me. I was very challendged me
 Weekly reflection 2/5 - 2/10
 This third week of bootcamp was an entirely different game than the previous two weeks. We started our discussions on data structures and talked about bubble sort, we also created a new application that plays the game of Craps for it's users. We are on chapter 8 of the book and have basically finished all of the basic syntax for the Java language. It is difficult to fathom how far i've come but I am looking forward to more as we go!
 
+Weekly reflection 2/11 - 2/17
+This 4th week was truly terrifying but also comforting to a degree. We had our large unit test and I feel like I comprehended the problems and I was able to at least attempt the problems although I definitely did not solve every problem in the given time. It was a good challenge and it makes me look ahead to this week and what it will be bringing. I think if I can focus on my mathematics and logic understanding, I can become a strong programmer. It will take dedication and working everyday. 
