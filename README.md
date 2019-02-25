@@ -5,7 +5,7 @@
 * [LinkedIn](https://www.linkedin.com/in/felipecook)
 * [GitHub](https://github.com/felipecook)
 * [Concept Map](https://drive.google.com/file/d/1rnYEn78_48Mc778NXQaWQRdb76LC2VMl/view?usp=sharing)
-* [Resume](https://drive.google.com/file/d/172c0npKb39SxC56BlvyXN8boAkWnqSA_/view?usp=sharing)
+* [Resume](https://drive.google.com/file/d/16VhQZpIMje3mboAUhz9X9pZa1l_aD3Wl/view?usp=sharing)
 * [Reflection on Online Presence](https://docs.google.com/spreadsheets/d/1MxOi_9i0rDYqrHAmYebKMJxI4M9L0IpUdY8frcRorpY/edit?usp=sharing)
 * [Cooking Up Activity](https://drive.google.com/file/d/1TT6nOcVQIUQ1NzxAGpJeLs-1PG_8ol5X/view?usp=sharing)
 * [Salary Expectations](salaryexpectations.md)
