@@ -1,5 +1,5 @@
 # Felipe Cook
-## Mobile Dev Intern at Deep Dive Coding
+## Mobile Dev
 
 ## Links
 
