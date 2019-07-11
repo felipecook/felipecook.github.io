@@ -1,5 +1,5 @@
 # Felipe Cook
-## Mobile Dev
+## Mobile Developer
 
 ## Links
 
