@@ -5,9 +5,8 @@
 
 * [LinkedIn](https://www.linkedin.com/in/felipecook)
 * [GitHub](https://github.com/felipecook)
-* [Resume](https://drive.google.com/file/d/1aXThseCsoIsw9Ty68g6QDucG2TM2s36B/view?usp=sharing)
 
-### Seeking a challenging software engineering position in an organization that rewards dedication and proficiency in android development and systems architecture.
+### Seeking a software engineering position or internship in an organization that rewards dedication and proficiency in java development, android technology and systems architecture.
 
 #### Summary of Skills
 
